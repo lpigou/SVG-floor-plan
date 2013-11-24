@@ -1,2 +1,2 @@
 Demo:
-http://lpigou.github.com/indoortracking
+http://lpigou.github.io/SVG-floor-plan
